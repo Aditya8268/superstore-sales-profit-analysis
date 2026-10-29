@@ -61,4 +61,4 @@ data. The analysis shows that discounts and losses go together, but does not
 prove discounts alone caused the losses.
 
 ## About me
-Aditya Wadaskar, aspiring data analyst.(https://www.linkedin.com/in/aditya-wadaskar-431212230/)
+Aditya Wadaskar, aspiring data analyst. aditya-wadaskar-431212230/ 
