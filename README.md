@@ -19,7 +19,7 @@ products, customers, regions, discounts, sales and profit.
 - Orders with a 21-30% discount have a margin of about -10%.
 - Central is the weakest region (7.99% margin); Furnishings in Central
   lost $3,906.22.
-- Three products (Double Head Print, Lexmark MX611dhe Monochrome Laser Printer and Triple Head Print) lost about $17,300 combined.
+- Three products (two Cubify Cubex 3D printers, Double and Triple Head Print and Lexmark MX611dhe Laser Printer) lost about $17,300 combined.
 - Sales peak in November, December and September each year; margins in those months are lower.
 - Champions drive the most sales ($675,849.82); 80 big-spending customers
   are "At Risk".
